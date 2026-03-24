@@ -1,4 +1,4 @@
-<h1 align="center">🛒 AIChat Web – Nền tảng thương mại điện tử tích hợp AI Chatbot 🤖</h1>
+<h1 align="center">🛒 Nền tảng thương mại điện tử tích hợp AI Chatbot 🤖</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-React-blue?style=flat-square" />
